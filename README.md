@@ -1,34 +1,34 @@
 
-- NLW eSports - Ignite
+# NLW eSports - Ignite
 
-💠 API Backend
-Typescript
-Vite
-NodeJS
-Express
-Prisma
-SQLite
-
-<--->
-
-🎮 Web front-end
-Typescript
-Vite
-ReactJS
-Tailwind CSS
-Radix UI
-Axios
-Phosphor Icons
+##💠 API Backend
+- Typescript
+- Vite
+- NodeJS
+- Express
+- Prisma
+- SQLite
 
 <--->
 
-📱 Mobile
-Typescript
-ReactNative
-Expo
-Tailwind CSS
-Radix UI
-Axios
-Phosphor Icons
+## 🎮 Web front-end
+- Typescript
+- Vite
+- ReactJS
+- Tailwind CSS
+- Radix UI
+- Axios
+- Phosphor Icons
+
+<--->
+
+## 📱 Mobile
+- Typescript
+- ReactNative
+- Expo
+- Tailwind CSS
+- Radix UI
+- Axios
+- Phosphor Icons
 
 <--->

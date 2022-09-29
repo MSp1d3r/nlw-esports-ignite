@@ -11,6 +11,7 @@
 - Prisma
 - SQLite
 
+![preview](nlw-esports-3.png)
 <--->
 
 ## 🎮 Web front-end
@@ -22,6 +23,8 @@
 - Axios
 - Phosphor Icons
 
+![preview](nlw-esports-1.png)
+![preview](nlw-esports-2.png)
 <--->
 
 ## 📱 Mobile

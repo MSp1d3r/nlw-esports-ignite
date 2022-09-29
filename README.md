@@ -35,7 +35,8 @@
 - Radix UI
 - Axios
 - Phosphor Icons
-![preview](nlw-esports-mob-1.png) 
+
+![preview](nlw-esports-mob-1.jpg) 
 ![preview](nlw-esports-mob-2.png)
 ![preview](nlw-esports-mob-3.png)
 ![preview](nlw-esports-mob-4.png)

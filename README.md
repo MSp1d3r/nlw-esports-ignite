@@ -36,7 +36,7 @@
 - Axios
 - Phosphor Icons
 
-![preview](nlw-esports-mob-1.jpeg) ![preview](nlw-esports-mob-2.jpeg)
+![preview](nlw-esports-mob-1.jpeg), ![preview](nlw-esports-mob-2.jpeg)
 
 ![preview](nlw-esports-mob-3.jpeg)
 ![preview](nlw-esports-mob-4.jpeg)
